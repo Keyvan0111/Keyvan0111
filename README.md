@@ -13,9 +13,9 @@
 <img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" width="50" height="50"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="50" height="50"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="50" height="50"><img src="https://seeklogo.com/images/C/c-programming-language-logo-9B32D017B1-seeklogo.com.png" width="50" height="50"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" width="50" height="50"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="50" height="50">
 
 
-## 🔝 Top Languages
+<!--## 🔝 Top Languages-->
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Keyvan0111&layout=compact&theme=dark&langs_count=10)
+<!--![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Keyvan0111&layout=compact&theme=dark&langs_count=10)-->
 
 ## Socials
 <a href="https://www.linkedin.com/in/keyvan-sadeghi-15b0a8250/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="keyvan sadeghi" height="30" width="40" /></a>
