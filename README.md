@@ -5,7 +5,7 @@
 - 👨‍💼 Interested in learning new stuff and exlporing the horizon
 - 💼 UiT Summer Intern 2023
 - 📩 Contact: Keyvan.sosial@gmail.com
-- 🧠 Currently expanding my skills in full stack web development using C#, .NET, EFcore, React and TS
+- 🧠 Currently expanding my skills in full stack web development using C#, .NET, React and TS
 
 
 ## 🔧 Tech Stack
