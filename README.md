@@ -3,7 +3,7 @@
 
 - 🧑‍💻 3rd year Computer Science Master's student based in Tromsø, Norway
 - 👨‍💼 Interested in learning new stuff and exlporing the horizon
-- 💼 UiT Summer Intern 2023
+- 💼 UiT Summer Intern 2024
 - 📩 Contact: Keyvan.sosial@gmail.com
 - 🧠 Currently expanding my skills in full stack web development using C#, .NET, React and TS
 
