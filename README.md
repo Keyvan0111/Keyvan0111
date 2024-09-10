@@ -15,6 +15,7 @@
 <img src="https://seeklogo.com/images/C/c-programming-language-logo-9B32D017B1-seeklogo.com.png" height="50"> &nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" height="50"> &nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" height="50"> &nbsp;
+<img src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Blue.svg" height="50"> &nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" height="50">
 
 <!--## 🔝 Top Languages-->
