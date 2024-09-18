@@ -20,7 +20,7 @@
 
 <!--## 🔝 Top Languages-->
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Keyvan0111&layout=compact&theme=dark&langs_count=10)-->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Keyvan0111&layout=compact&theme=dark&langs_count=10)
 
 ## Socials
 <a href="https://www.linkedin.com/in/keyvan-sadeghi-15b0a8250/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="keyvan sadeghi" height="50"/></a>
