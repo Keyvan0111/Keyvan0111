@@ -3,9 +3,10 @@
 
 - 🧑‍💻 3rd year Computer Science Master's student based in Tromsø, Norway
 - 👨‍💼 Interested in learning new stuff and honing my skills
+- 🤓 Love making ideas into reality!
 - 💼 UiT Summer Intern 2023, UiT Summer Intern 2024
 - 📩 Contact: Keyvan.sosial@gmail.com
-- 🧠 Currently expanding my skills in full stack web development using C#, .NET, React and TS
+- 🧠 Currently expanding my skills in full stack web development by programming them
 
 
 ## 🔧 Tech Stack
@@ -21,7 +22,7 @@
 
 <!--## 🔝 Top Languages-->
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Keyvan0111&layout=compact&theme=dark&langs_count=10)
+<!--![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Keyvan0111&layout=compact&theme=dark&langs_count=10)-->
 
 ## Socials
 <a href="https://www.linkedin.com/in/keyvan-sadeghi-15b0a8250/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="keyvan sadeghi" height="50"/></a>
