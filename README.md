@@ -9,13 +9,13 @@
 
 
 ## 🔧 Tech Stack
+<img src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Blue.svg" height="50"> &nbsp;
 <img src=https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg height="50"> &nbsp; 
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d8/C_Language_Logo.svg" height="50"> &nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" height="50"> &nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" height="50"> &nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" height="50"> &nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" height="50"> &nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" height="50"> &nbsp;
-<img src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Blue.svg" height="50"> &nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" height="50"> &nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" height="50">
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Logo-redis.svg" height="50">
 
